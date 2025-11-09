@@ -1,2 +1,4 @@
 class BaseCar():
-    pass
+    
+    def __init__(self):
+        self.speed 
