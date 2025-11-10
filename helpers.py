@@ -1,5 +1,5 @@
 def helper1():
-    pass
+    print("Tobi ist erster")
 
 def helper2():
-    pass
+    print("Tobi Tobi Tobi")
