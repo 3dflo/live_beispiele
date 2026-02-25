@@ -12,7 +12,7 @@ def helper1(a,b):
         print(i)
 
 def helper2():
-    """Different function, but what does it do!?
+    """This function just return a message.
     """
     #print("This is helper 2")
 
