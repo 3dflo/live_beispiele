@@ -209,3 +209,5 @@ __marimo__/
 
 config.json
 *.py
+
+.settings.json
