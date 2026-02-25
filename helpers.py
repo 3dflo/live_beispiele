@@ -1,9 +1,13 @@
+#GIT INTRO UEBER VSC
+
 def helper1(a,b):
     print("This is helper 1")
     for i in range(a,b):
         print(i)
 
 def helper2():
+    """YUHUUU
+    """
     print(This is helper 2)
 
 
