@@ -7,14 +7,14 @@ def helper1(a,b):
         a (number): The starting number (inclusive).
         b (number): The ending number (exclusive).
     """
-    print("This is helper 1")
+    #print("This is helper 1")
     for i in range(a,b):
         print(i)
 
 def helper2():
     """Different function, but what does it do!?
     """
-    print("This is helper 2")
+    #print("This is helper 2")
 
 
 if __name__ == "__main__":
