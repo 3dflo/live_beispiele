@@ -1,10 +1,18 @@
 def helper1(a,b):
+    """Helper function that does whatever. I haved no idea what it does, but it takes two arguments and prints numbers from a to b.
+
+    Args:
+        a (number): The starting number (inclusive).
+        b (number): The ending number (exclusive).
+    """
     print("This is helper 1")
     for i in range(a,b):
         print(i)
 
 def helper2():
-    print(This is helper 2)
+    """Different function, but what does it do!?
+    """
+    print("This is helper 2")
 
 
 if __name__ == "__main__":
