@@ -1,3 +1,5 @@
+#GIT INTRO UEBER VSC
+
 def helper1(a,b):
     """Helper function that does whatever. I haved no idea what it does, but it takes two arguments and prints numbers from a to b.
 
@@ -18,3 +20,5 @@ def helper2():
 if __name__ == "__main__":
     helper1(1,5)
     helper2()
+    
+#Dipaks Comment
