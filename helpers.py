@@ -9,18 +9,19 @@ def helper1(a,b):
 
         JM
     """
-    print("This is helper 1")
+    #print("This is helper 1")
     for i in range(a,b):
         print(i)
 
 def helper2():
-    """Different function, but what does it do!?
+    """This function just return a message.
     """
-    print("This is helper 2")
+    #print("This is helper 2")
 
 
 if __name__ == "__main__":
     helper1(1,5)
     helper2()
-    
+
+#hallo
 #Dipaks Comment
